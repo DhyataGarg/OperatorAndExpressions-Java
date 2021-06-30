@@ -1,3 +1,5 @@
+package AreaOfTriangle;
+
 import java.util.*;
 
 public class BaseHeightFormula {
